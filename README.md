@@ -1,3 +1,8 @@
+**scriptmaster** Custom fork to secure the version and for other security reasons.
+
+`<script master ...`
+
+
 # shortuuid
 
 [![Build Status](https://github.com/lithammer/shortuuid/workflows/CI/badge.svg)](https://github.com/lithammer/shortuuid/actions)
